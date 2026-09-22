@@ -21,9 +21,17 @@
 
 ## 🎥 Automated Production Walkthrough Video & Visual Telemetry
 
-### 🎬 Full 1080p Presentation Walkthrough
-> **Walkthrough Video**: [`public/presentation/gridaegis-presentation-walkthrough.webm`](./public/presentation/gridaegis-presentation-walkthrough.webm)  
-> *Recorded autonomously via Playwright Chromium (1920x1080) executing end-to-end civic scenarios.*
+### 🎬 Master Presentation Video with AI Voiceover (1080p MP4)
+> 📺 **Final Presentation Video (with Voiceover)**: [**`public/presentation/gridaegis-final-presentation.mp4`**](./public/presentation/gridaegis-final-presentation.mp4) *(5.25 MB • H.264 / AAC 1080p)*  
+> 🎙️ **Standalone Narration Track**: [`public/presentation/presentation-voice.mp3`](./public/presentation/presentation-voice.mp3) *(Synthesized with Microsoft Azure `en-US-ChristopherNeural`)*  
+> 📹 **Raw Screen Capture**: [`public/presentation/gridaegis-presentation-walkthrough.webm`](./public/presentation/gridaegis-presentation-walkthrough.webm) *(Autonomously recorded via Playwright Chromium)*
+
+#### 🎙️ Voiceover Narration Transcript
+> 1. *"In Gainesville, Florida, clean energy is not merely an environmental goal, it is a climate survival crisis. East of Waldo Road in ZIP 32641, families spend nearly 15% of income on electricity bills. Meet GridAegis GNV."*  
+> 2. *"GridAegis GNV bridges geospatial analytics with municipal policy, overlaying Alachua County census data with NASA ECOSTRESS thermal data to reveal a 4.2 degree heat island, simulating urban canopy savings."*  
+> 3. *"Our sub-20ms Directed Acyclic Graph engine models cascading grid collapse across Hogtown Creek and Sugarfoot, securing UF Health Shands with our 72-hour microgrid battery dispatch solver."*  
+> 4. *"Google Gemini multimodal intelligence ingests GRU utility bills and meters, extracts tiered rates, and drafts official Florida LIHEAP hardship applications with Spanish translation and browser voice triage."*  
+> 5. *"When cellular networks fail, our zero-bandwidth Offline Shelter Pass provides printable disaster life-support guides. GridAegis GNV delivers an equitable, resilient future for Gainesville."*
 
 ---
 

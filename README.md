@@ -13,13 +13,24 @@
 
 **An autonomous spatial energy burden optimizer, karst-resilient grid failure simulator, and multimodal Google Gemini utility triage platform specifically engineered for Gainesville Regional Utilities (GRU) and Alachua County.**
 
-[Live Application (Localhost)](http://localhost:3000) • [Visual Telemetry](#-production-interface--visual-telemetry) • [Architecture Flowchart](#-the-triple-shield-civic-architecture) • [Mathematical Formulations](#-mathematical--algorithmic-formulations) • [Deployment Guide](#-local-setup--deployment)
+### 🌟 Project Links & Live Telemetry
+- 🌐 **Live Web Application**: [https://gridaegis-gnv.vercel.app](https://gridaegis-gnv.vercel.app)
+- 🎥 **Official Video Walkthrough (YouTube)**: [https://youtu.be/xhIiLt_T2Hc](https://youtu.be/xhIiLt_T2Hc)
+- 💻 **Source Code Repository**: [https://github.com/fokrulanthro16-eng/gridaegis-gnv](https://github.com/fokrulanthro16-eng/gridaegis-gnv)
+
+[🌐 Live Deployment](https://gridaegis-gnv.vercel.app) • [🎥 YouTube Walkthrough](https://youtu.be/xhIiLt_T2Hc) • [Visual Telemetry](#-automated-production-walkthrough-video--visual-telemetry) • [Architecture Flowchart](#-the-triple-shield-civic-architecture) • [Mathematical Formulations](#-mathematical--algorithmic-formulations) • [Deployment Guide](#-local-setup--deployment)
 
 </div>
 
 ---
 
 ## 🎥 Automated Production Walkthrough Video & Visual Telemetry
+
+### 📺 Official Video Walkthrough
+[![GridAegis GNV Video Walkthrough](https://img.youtube.com/vi/xhIiLt_T2Hc/maxresdefault.jpg)](https://youtu.be/xhIiLt_T2Hc)  
+*(Watch full 1080p presentation on YouTube: [https://youtu.be/xhIiLt_T2Hc](https://youtu.be/xhIiLt_T2Hc))*
+
+---
 
 ### 🎬 Master Presentation Video with AI Voiceover (1080p MP4)
 > 📺 **Final Presentation Video (with Voiceover)**: [**`public/presentation/gridaegis-final-presentation.mp4`**](./public/presentation/gridaegis-final-presentation.mp4) *(5.25 MB • H.264 / AAC 1080p)*  

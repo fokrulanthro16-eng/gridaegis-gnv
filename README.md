@@ -13,9 +13,41 @@
 
 **An autonomous spatial energy burden optimizer, karst-resilient grid failure simulator, and multimodal Google Gemini utility triage platform specifically engineered for Gainesville Regional Utilities (GRU) and Alachua County.**
 
-[Live Application (Localhost)](http://localhost:3000) • [Architecture Flowchart](#-system-architecture-flowchart) • [Mathematical Formulations](#-mathematical--algorithmic-formulations) • [Deployment Guide](#-local-setup--deployment)
+[Live Application (Localhost)](http://localhost:3000) • [Visual Telemetry](#-production-interface--visual-telemetry) • [Architecture Flowchart](#-the-triple-shield-civic-architecture) • [Mathematical Formulations](#-mathematical--algorithmic-formulations) • [Deployment Guide](#-local-setup--deployment)
 
 </div>
+
+---
+
+## 📸 Production Interface & Visual Telemetry
+
+### 1. Spatial Energy Burden GIS & NASA ECOSTRESS Radiometric Overlay
+![Spatial GIS Map & NASA LST Ground Truth](./docs/screenshots/gis-map.png)
+*Alachua County interactive choropleth displaying the East Gainesville (32641) 14.8% energy poverty divide against West Gainesville (<5%), integrated with NASA ECOSTRESS/Landsat Land Surface Temperature (+4.2°C anomaly) and the "What-If" Municipal Policy Simulator.*
+
+---
+
+### 2. Topological Karst-Grid Cascading Failure Engine (<20ms BFS)
+![Karst-Grid DAG Simulator](./docs/screenshots/dag-simulator.png)
+*Sub-20ms Breadth-First Search (BFS) graph propagation engine simulating Hogtown Creek flash flooding (84 ft elevation) and Sweetwater sinkhole ground shifts tripping Sugarfoot, Kanapaha, and Springhill substations with real-time Unserved Energy (MWh) metrics and Restoration Priority Index (RPI).*
+
+---
+
+### 3. Multimodal Google Gemini Utility Auditor & Spanish Voice Triage
+![Google Gemini Multimodal Auditor](./docs/screenshots/gemini-auditor.png)
+*Dual-engine utility triage interface featuring Google Gemini 1.5 Flash cloud OCR alongside zero-bandwidth client-side edge fallback. Dissects GRU Fuel Adjustment Clause (FAC) volatility, auto-generates official Florida LIHEAP hardship claims (Rule 73C-43), and provides real-time Spanish voice synthesis via Web Speech API.*
+
+---
+
+### 4. Mathematical 72-Hour Shelter Microgrid & Solar-Storage Solver
+![72h Shelter Microgrid Solver](./docs/screenshots/microgrid-solver.png)
+*Discrete State-of-Charge (SoC) differential solver sizing PV and BESS battery systems across designated Gainesville emergency shelters (UF Health Shands, MLK Jr. Center, Reitz Union, GRACE Marketplace), guaranteeing a hard 20% DoD reserve floor with IRA Section 48 Direct Pay accounting.*
+
+---
+
+### 5. Offline Emergency Shelter Pass (Printable / PDF Survival Card)
+![Offline Emergency Shelter Pass](./docs/screenshots/offline-shelter-pass.png)
+*One-click printable disaster field card (`window.print()`) listing active life-support shelters with diesel backup reserves, ICU ventilator capabilities, emergency AM/FM radio broadcast frequencies (WUFT 89.1 FM, NOAA 162.475 MHz), and FEMA POD potable water hubs.*
 
 ---
 

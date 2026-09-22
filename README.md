@@ -19,34 +19,46 @@
 
 ---
 
-## 📸 Production Interface & Visual Telemetry
+## 🎥 Automated Production Walkthrough Video & Visual Telemetry
 
-### 1. Spatial Energy Burden GIS & NASA ECOSTRESS Radiometric Overlay
-![Spatial GIS Map & NASA LST Ground Truth](./docs/screenshots/gis-map.png)
-*Alachua County interactive choropleth displaying the East Gainesville (32641) 14.8% energy poverty divide against West Gainesville (<5%), integrated with NASA ECOSTRESS/Landsat Land Surface Temperature (+4.2°C anomaly) and the "What-If" Municipal Policy Simulator.*
-
----
-
-### 2. Topological Karst-Grid Cascading Failure Engine (<20ms BFS)
-![Karst-Grid DAG Simulator](./docs/screenshots/dag-simulator.png)
-*Sub-20ms Breadth-First Search (BFS) graph propagation engine simulating Hogtown Creek flash flooding (84 ft elevation) and Sweetwater sinkhole ground shifts tripping Sugarfoot, Kanapaha, and Springhill substations with real-time Unserved Energy (MWh) metrics and Restoration Priority Index (RPI).*
+### 🎬 Full 1080p Presentation Walkthrough
+> **Walkthrough Video**: [`public/presentation/gridaegis-presentation-walkthrough.webm`](./public/presentation/gridaegis-presentation-walkthrough.webm)  
+> *Recorded autonomously via Playwright Chromium (1920x1080) executing end-to-end civic scenarios.*
 
 ---
 
-### 3. Multimodal Google Gemini Utility Auditor & Spanish Voice Triage
-![Google Gemini Multimodal Auditor](./docs/screenshots/gemini-auditor.png)
-*Dual-engine utility triage interface featuring Google Gemini 1.5 Flash cloud OCR alongside zero-bandwidth client-side edge fallback. Dissects GRU Fuel Adjustment Clause (FAC) volatility, auto-generates official Florida LIHEAP hardship claims (Rule 73C-43), and provides real-time Spanish voice synthesis via Web Speech API.*
+### 1. Overview & Real-Time GRU Civic Telemetry
+![01 - Overview & Telemetry](./public/screenshots/01-overview-telemetry.png)
+*Executive dashboard visualizing real-time GRU municipal generation load (348 MW / 410 MW) and East Gainesville's acute 14.8% energy burden disparity.*
+
+---
+
+### 2. Spatial Energy Burden GIS & What-If Policy Simulator
+![02 - Spatial GIS & Policy Simulator](./public/screenshots/02-gis-policy-simulator.png)
+*Interactive choropleth GIS with simulated NASA ECOSTRESS/Landsat radiometric thermal layer (+4.2°C anomaly in 32641) and the municipal "+15% Tree Canopy & 2MW Solar" policy simulator projecting -$42.50/mo bill savings.*
+
+---
+
+### 3. Topological Karst-Grid Cascading Failure Engine (<20ms BFS)
+![03 - Karst-Grid DAG Failure Simulator](./public/screenshots/03-karst-dag-cascade.png)
+*Category 4 hurricane stress test modeling Hogtown Creek basin flash flood and Sweetwater sinkhole ground shifts, computing real-time unserved MWh and substation isolation in <20ms.*
 
 ---
 
 ### 4. Mathematical 72-Hour Shelter Microgrid & Solar-Storage Solver
-![72h Shelter Microgrid Solver](./docs/screenshots/microgrid-solver.png)
-*Discrete State-of-Charge (SoC) differential solver sizing PV and BESS battery systems across designated Gainesville emergency shelters (UF Health Shands, MLK Jr. Center, Reitz Union, GRACE Marketplace), guaranteeing a hard 20% DoD reserve floor with IRA Section 48 Direct Pay accounting.*
+![04 - 72h Shelter Islanding Solver](./public/screenshots/04-microgrid-72h-dispatch.png)
+*Discrete State-of-Charge (SoC) differential solver sizing PV and BESS battery systems across designated Gainesville emergency shelters, guaranteeing a strict 20% DoD reserve floor with IRA Section 48 Direct Pay accounting.*
 
 ---
 
-### 5. Offline Emergency Shelter Pass (Printable / PDF Survival Card)
-![Offline Emergency Shelter Pass](./docs/screenshots/offline-shelter-pass.png)
+### 5. Multimodal Google Gemini Utility Auditor & Spanish Voice Triage
+![05 - Gemini LIHEAP Auditor with Voice Triage](./public/screenshots/05-gemini-liheap-auditor.png)
+*Dual-engine utility triage interface featuring Google Gemini 1.5 Flash cloud OCR alongside zero-bandwidth client-side edge fallback, auto-generating official Florida LIHEAP hardship claims ($850 relief grant) and Web Speech API Spanish audio triage.*
+
+---
+
+### 6. Offline Emergency Shelter Pass (Printable Survival Card)
+![06 - Offline Emergency Shelter Pass](./public/screenshots/06-offline-shelter-pass.png)
 *One-click printable disaster field card (`window.print()`) listing active life-support shelters with diesel backup reserves, ICU ventilator capabilities, emergency AM/FM radio broadcast frequencies (WUFT 89.1 FM, NOAA 162.475 MHz), and FEMA POD potable water hubs.*
 
 ---
